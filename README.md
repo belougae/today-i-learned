@@ -54,6 +54,7 @@ _1295 TILs and counting..._
 
 ### Chrome
 
+- [智能截图 开发者工具 Command + shift + P](https://sspai.com/post/42193)
 - [多开账号导入书签](https://www.hellotech.com/guide/for/how-to-export-save-import-bookmarks-in-chrome)
 - [Chrome 可以在地址栏通过标签备注，直接检索到网址](chrome/)
 - [Access A Value Logged To The Console](chrome/access-a-value-logged-to-the-console.md)
