@@ -27,6 +27,7 @@ _1295 TILs and counting..._
     - [GitHub Actions](#github-actions)
     - [HTML](#html)
     - [HTTP](#http)
+    - [Idea](#idea)
     - [Intellij](#intellij)
     - [Internet](#internet)
     - [JavaScript](#javascript)
@@ -238,6 +239,9 @@ _1295 TILs and counting..._
 ### HTTP
 
 - [What Counts As Cross-Origin With CORS?](http/what-counts-as-cross-origin-with-cors.md)
+
+### Idea
+- [IDEA 完全退出项目](idea/idea-quit-project.md)
 
 ### Intellij
 
