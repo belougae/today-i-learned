@@ -23,6 +23,7 @@ _1295 TILs and counting..._
 * [GitHub Actions](#github-actions)
 * [HTML](#html)
 * [HTTP](#http)
+* [INTELLIJ](#intellij)
 * [Internet](#internet)
 * [JavaScript](#javascript)
 * [jq](#jq)
@@ -232,6 +233,10 @@ _1295 TILs and counting..._
 ### HTTP
 
 - [What Counts As Cross-Origin With CORS?](http/what-counts-as-cross-origin-with-cors.md)
+
+### Intellij
+
+- [IDEA清除无用import快捷键以及自动清除设置? Ctrl+Alt+o]
 
 ### Internet
 
