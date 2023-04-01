@@ -16,30 +16,35 @@ _1295 TILs and counting..._
 
 ### Categories
 
-* [Chrome](#chrome)
-* [CSS](#css)
-* [Devops](#devops)
-* [Git](#git)
-* [GitHub Actions](#github-actions)
-* [HTML](#html)
-* [HTTP](#http)
-* [INTELLIJ](#intellij)
-* [Internet](#internet)
-* [JavaScript](#javascript)
-* [jq](#jq)
-* [Linux](#linux)
-* [Mac](#mac)
-* [MongoDB](#mongodb)
-* [MySQL](#mysql)
-* [pnpm](#pnpm)
-* [PostgreSQL](#postgresql)
-* [Python](#python)
-* [Rails](#rails)
-* [Ruby](#ruby)
-* [Shell](#shell)
-* [Vim](#vim)
-* [VSCode](#vscode)
-* [YAML](#yaml)
+- [TIL](#til)
+    - [Categories](#categories)
+    - [Amplify](#amplify)
+    - [Chrome](#chrome)
+    - [CSS](#css)
+    - [Deno](#deno)
+    - [Devops](#devops)
+    - [Git](#git)
+    - [GitHub Actions](#github-actions)
+    - [HTML](#html)
+    - [HTTP](#http)
+    - [Intellij](#intellij)
+    - [Internet](#internet)
+    - [JavaScript](#javascript)
+    - [jq](#jq)
+    - [Linux](#linux)
+    - [Mac](#mac)
+    - [MongoDB](#mongodb)
+    - [MySQL](#mysql)
+    - [Python](#python)
+    - [Shell](#shell)
+    - [Vim](#vim)
+    - [Webpack](#webpack)
+    - [Workflow](#workflow)
+    - [YAML](#yaml)
+  - [Usage](#usage)
+  - [About](#about)
+  - [Other TIL Collections](#other-til-collections)
+  - [License](#license)
 
 ---
 
@@ -236,7 +241,7 @@ _1295 TILs and counting..._
 
 ### Intellij
 
-- IDEA清除无用import快捷键以及自动清除设置? Ctrl+Alt+o
+- 清除无用 import 快捷键以及自动清除设置? Ctrl + Alt + o
 
 ### Internet
 
