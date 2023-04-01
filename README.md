@@ -344,8 +344,8 @@ _1295 TILs and counting..._
 - [Reduce Object To Just Entries Of A Specific Type](jq/reduce-object-to-just-entries-of-a-specific-type.md)
 
 
-### Linux
-
+### Linux 进程的英文 
+- [自动 kill Java 进程，并升级 jar 包.md](linux/自动 kill Java 进程，并升级 jar 包.md)
 - [Check Ubuntu Version](linux/check-ubuntu-version.md)
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
 - [List The Statuses Of All Upstart Jobs](linux/list-the-statuses-of-all-upstart-jobs.md)
