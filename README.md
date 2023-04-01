@@ -241,7 +241,8 @@ _1295 TILs and counting..._
 
 ### Intellij
 
-- 清除无用 import 快捷键以及自动清除设置? Ctrl + Alt + o
+- 清除无用 import 快捷键以及自动清除设置? Ctrl + Alt + o  
+- 自动创建变量 option + command + v
 
 ### Internet
 
