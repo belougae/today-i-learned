@@ -53,6 +53,7 @@ _1295 TILs and counting..._
 
 ### Chrome
 
+- [Chrome 可以在地址栏通过标签备注，直接检索到网址](chrome/)
 - [Access A Value Logged To The Console](chrome/access-a-value-logged-to-the-console.md)
 - [Chrome Supports Many Unix Keyboard Shortcuts](chrome/chrome-supports-many-unix-keyboard-shortcuts.md)
 - [Copy Some Data From The Console](chrome/copy-some-data-from-the-console.md)
