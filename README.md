@@ -236,7 +236,7 @@ _1295 TILs and counting..._
 
 ### Intellij
 
-- [IDEA清除无用import快捷键以及自动清除设置? Ctrl+Alt+o]
+- IDEA清除无用import快捷键以及自动清除设置? Ctrl+Alt+o
 
 ### Internet
 
