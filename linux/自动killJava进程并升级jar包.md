@@ -1,6 +1,6 @@
 # 自动 kill Java 进程，并升级 jar 包
 ```bash
-$ [root@nb-prealgo-web project]# cat reload_inner.sh 
+$ [root@beluag-x project]# cat reload_inner.sh 
 #!/bin/bash
 
 PROJECTINNERPID=`ps aux | grep project-inner-906.jar | grep -v grep | awk '{print $2}'`
