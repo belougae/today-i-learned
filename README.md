@@ -366,6 +366,7 @@ _1295 TILs and counting..._
 
 ### Mac
 
+- [端口占用 sudo lsof -i tcp:8082](mac/端口占用.md)
 - [Access All Screen And Video Capture Options](mac/access-all-screen-and-video-capture-options.md)
 - [Access System Information On OS X](mac/access-system-information-on-osx.md)
 - [Access Unsupported Screen Resolutions With RDM](mac/access-unsupported-screen-resolutions-with-rdm.md)
