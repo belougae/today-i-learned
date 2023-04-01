@@ -345,7 +345,7 @@ _1295 TILs and counting..._
 
 
 ### Linux
-- [自动 kill Java 进程，并升级 jar 包.md](linux/自动 kill Java 进程，并升级 jar 包.md)
+- [自动 kill Java 进程，并升级 jar 包.md](linux/自动killJava进程并升级jar包.md)
 - [Check Ubuntu Version](linux/check-ubuntu-version.md)
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
 - [List The Statuses Of All Upstart Jobs](linux/list-the-statuses-of-all-upstart-jobs.md)
