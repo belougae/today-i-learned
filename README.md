@@ -224,6 +224,7 @@ _1295 TILs and counting..._
 
 ### GitHub Actions
 
+- [解决git pull/push每次都需要输入密码问题](https://blog.csdn.net/nongweiyilady/article/details/77772602)
 - [Capture An Output Value For Use In A Later Step](github-actions/capture-an-output-value-for-use-in-a-later-step.md)
 - [Reference An Encrypted Secret In An Action](github-actions/reference-an-encrypted-secret-in-an-action.md)
 
