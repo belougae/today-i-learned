@@ -252,7 +252,7 @@ _1295 TILs and counting..._
 
 - 清除无用 import 快捷键以及自动清除设置? Ctrl + Alt + o  
 - 自动创建变量 option + command + v
-- [在Intellij IDEA中使用Debug](https://www.cnblogs.com/chiangchou/p/idea-debug.html)
+- [在Intellij IDEA中优雅地使用Debug](https://www.cnblogs.com/chiangchou/p/idea-debug.html)
 
 ### Internet
 
