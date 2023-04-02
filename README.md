@@ -54,7 +54,7 @@ _1295 TILs and counting..._
 
 ### Chrome
 
-- [智能截图 开发者工具 Command + shift + P](https://sspai.com/post/42193)
+- [智能截图 打i开发者工具 Command + shift + P](https://sspai.com/post/42193)
 - [多开账号导入书签](https://www.hellotech.com/guide/for/how-to-export-save-import-bookmarks-in-chrome)
 - [Chrome 可以在地址栏通过标签备注，直接检索到网址](chrome/)
 - [Access A Value Logged To The Console](chrome/access-a-value-logged-to-the-console.md)
@@ -252,6 +252,7 @@ _1295 TILs and counting..._
 
 - 清除无用 import 快捷键以及自动清除设置? Ctrl + Alt + o  
 - 自动创建变量 option + command + v
+- [在Intellij IDEA中使用Debug](https://www.cnblogs.com/chiangchou/p/idea-debug.html)
 
 ### Internet
 
