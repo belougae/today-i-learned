@@ -417,6 +417,7 @@ _1295 TILs and counting..._
 
 - [导出数据表](mysql/导出数据表.md)
 - [根据一个表的所有主键-为另一个表生成记录](mysql/根据一个表的所有主键-为另一个表生成记录.md)
+- [全局锁和表锁 ：给表加个字段怎么有这么多阻碍](mysql/全局锁和表锁:给表加个字段怎么有这么多阻碍.md)
 - [Change Existing Column To Not Null](mysql/change-existing-column-to-not-null.md)
 - [Default Username And Password For New Instance](mysql/default-username-and-password-for-new-instance.md)
 - [Display Output In A Vertical Format](mysql/display-output-in-a-vertical-format.md)
