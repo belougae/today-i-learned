@@ -106,6 +106,7 @@ _1295 TILs and counting..._
 
 ### Devops
 
+- [Docker Desktop Vmmem内存占用过高问题解决方案](devops/DockerDesktopVmmem内存占用过高问题解决方案.md)
 - [Aliasing An Ansible Host](devops/aliasing-an-ansible-host.md)
 - [Allow Cross-Origin Requests To Include Cookies](devops/allow-cross-origin-requests-to-include-cookies.md)
 - [Allow HTTPS Through Your UFW Firewall](devops/allow-https-through-your-ufw-firewall.md)
